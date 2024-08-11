@@ -1,0 +1,8 @@
+.note_card {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.note_card:hover {
+  transform: translate(5px, -5px);
+}
